@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'Chambeadores2.aternos.me', // <--- REEMPLAZA ESTO POR LA IP DE TU SERVER
-        port: 32223,                // Puerto predeterminado de Minecraft
+        host: 'uwuporquesi-erQx.aternos.me', // <--- REEMPLAZA ESTO POR LA IP DE TU SERVER
+        port: 37411,                // Puerto predeterminado de Minecraft
         username: 'CAPYBARA',    // Nombre genérico del bot/NPC dentro del juego
         version: false              // Autodetecta la versión exacta del servidor (1.8 a 1.21+)
     });
